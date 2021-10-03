@@ -7,11 +7,11 @@ The "Chatbot_model" is the trained model
 Chatgui is the user interface that will be used by the users to interact with the chatbot
 
 The 5 steps followed for creating the chatbot are:
-Import and load the data file
-Preprocess data
-Create training and testing data
-Build the model
-Predict the response
+1.Import and load the data file
+2. Preprocess data
+3. Create training and testing data
+4. Build the model
+5. Predict the response
 
 In order to run the chatbot GUI, first train the dataset by using the command:
   python train_chatbot.py
