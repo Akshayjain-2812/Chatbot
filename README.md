@@ -7,7 +7,7 @@ The "Chatbot_model" is the trained model
 Chatgui is the user interface that will be used by the users to interact with the chatbot
 
 The 5 steps followed for creating the chatbot are:
-* 1.Import and load the data file
+* 1. Import and load the data file
 * 2. Preprocess data
 * 3. Create training and testing data
 * 4. Build the model
