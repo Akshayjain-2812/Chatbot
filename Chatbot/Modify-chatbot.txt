@@ -1,1 +1,1 @@
-You can modify the questions, responses of the chatbot by adding and modifying the data in the intents file. 
+You can modify the questions, responses of the chatbot by adding and rephrasing the data in the intents file. 
