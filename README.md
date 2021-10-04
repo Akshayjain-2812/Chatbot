@@ -1,5 +1,5 @@
 A chatbot is a piece of software that can communicate and conduct tasks in the same way that a human can. Chatbots are widely utilized in customer service, social media marketing, and instant messaging with clients.
-Deep learning techniques are used to construct a very basic chatbot. The information will be used to train the chatbot, which will include categories (intents), patterns, and replies. A recurrent neural network (LSTM) is emplayed to classify which category the user's message belongs to, and then we choose a response from the list.
+Deep learning techniques are used to construct a very basic chatbot. The information will be used to train the chatbot, which will include categories (intents), patterns, and replies. A recurrent neural network (LSTM) is employed to classify which category the user's message belongs to, and then we choose a response from the list.
 The content of files are as follows:
 indents.json contains dataset of predefined patterns and responses.
 The "train_chatbot" python file contains the script used for building and training the chatbot
